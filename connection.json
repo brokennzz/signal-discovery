@@ -1,9 +1,9 @@
 {
   "version": 1,
   "instanceId": "7edfb953-8a06-4391-aa29-a412889b0dfb",
-  "url": "https://counties-boc-workplace-key.trycloudflare.com",
-  "sequence": 51,
-  "issuedAt": 1792793204521,
-  "expiresAt": 1792966004521,
-  "signature": "s9g0LIUXxbFEm4ExcHbyS30mzMrl5ltffF8Kkk0ZAYbPSXD2VjV3LBM2wP13a9JzLEcGxQq+NKcvqp88bq1ICA=="
+  "url": "https://omissions-senate-metropolitan-nav.trycloudflare.com",
+  "sequence": 52,
+  "issuedAt": 1792808604847,
+  "expiresAt": 1792981404847,
+  "signature": "Tg1k7FXQy8FNNB1YVfzUAoHxYhWsSs7/ZBScCeJGreKz2NReOEX6ZHuUCQgAwxgsQq9itw4aE0nXCpEkLLTBBw=="
 }
