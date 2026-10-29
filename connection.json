@@ -1,9 +1,9 @@
 {
   "version": 1,
   "instanceId": "7edfb953-8a06-4391-aa29-a412889b0dfb",
-  "url": "https://restored-ministers-mixed-expanded.trycloudflare.com",
-  "sequence": 90,
-  "issuedAt": 1793227968975,
-  "expiresAt": 1793400768975,
-  "signature": "FKWDyXlqP+BW78WqqbHacNmPvTMu4Yi0sUrJeGOwS/Dy7OyJQmbYNC+UTmSPCYs4MgWP2CRT8IVrknQlqgUnDw=="
+  "url": "https://debate-labs-nam-effective.trycloudflare.com",
+  "sequence": 91,
+  "issuedAt": 1793241165822,
+  "expiresAt": 1793413965822,
+  "signature": "0jkd/0YYncPQkQ9XA2JU6osyu2W1ORTeMBPyFEINfwXtmaEbvUGgEMLlyXRCGjnvFlmEMWTtYL39Ke22yRGQBw=="
 }
