@@ -1,9 +1,9 @@
 {
   "version": 1,
   "instanceId": "7edfb953-8a06-4391-aa29-a412889b0dfb",
-  "url": "https://alert-mirrors-south-named.trycloudflare.com",
-  "sequence": 140,
-  "issuedAt": 1794774445897,
-  "expiresAt": 1794947245897,
-  "signature": "xLl4W+tNPWcXO3EZMaGsT+Ekg0aey1KhFMQAFJZTzpPM/NzSgYCBy9Jp62oNmbnhPsq9pBO5SXO/ZosviVLwAg=="
+  "url": "https://ctrl-plugins-zone-peninsula.trycloudflare.com",
+  "sequence": 141,
+  "issuedAt": 1794843030795,
+  "expiresAt": 1795015830795,
+  "signature": "Kr/97atBkGyg85esj4Jq3hsRfhtMMfYqctq1BvzG3JN8WEGe5lUt6n2KkVfjLgB2fpVQFZ1qZNkbQgE7xnL5Cg=="
 }
